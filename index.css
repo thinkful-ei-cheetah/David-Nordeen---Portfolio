@@ -4,7 +4,6 @@
   
 
 header{
-  background-image: url("");
   width: 100%;
   padding: 5% 0;
 }
@@ -39,7 +38,7 @@ main{
 
 
 .aboutMe, .projects{
-  border: 1px solid black;
+  /* border: 1px solid black; */
   width:100%;
   
 }
@@ -55,14 +54,14 @@ main{
 
 }
 
-/* .col-6{
+.col-6{
   text-align: center;
   min-height: 200px;
   padding: 6% 10px;
   display: inline-block;
   max-width: 100%;
   
-} */
+}
 
 .projectHeader{
   color: white;
@@ -186,7 +185,6 @@ nav{
   justify-content: center;
   align-items: center;
   align-content: center;
-  /* max-width: 1000px; */
 }
 }
 
